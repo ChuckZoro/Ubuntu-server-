@@ -26,3 +26,11 @@ I built an Ubuntu Server, connected to it using the SSH command, and performed b
 Command used: ip a
 <img width="642" height="566" alt="Screenshot 2026-06-01 182558" src="https://github.com/user-attachments/assets/087ec04d-31b5-4fae-a3b2-af88e4fcbdb8" />
 
+### Step 3: Installed SSH
+Command: sudo apt update
+Command: sudo apt install openssh-server
+OpenSSH allows remote login access.          
+
+### Step 4: Checked SSH Status
+Command: sudo systemctl status ssh
+This command verifies whether the SSH service is running or not.
