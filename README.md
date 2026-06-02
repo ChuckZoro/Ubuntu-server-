@@ -45,3 +45,9 @@ This command will connect a different computer to the server remotely using the 
 -Command to check disk space: df -h
 
 <img width="642" height="512" alt="Screenshot 2026-06-02 063300" src="https://github.com/user-attachments/assets/1aad7753-9e8f-42d2-81d9-f978117b9ae2" />
+
+-Command to check memory usage: free -h
+
+-Command to check running processes: ps aux
+
+-Command to list files and directories: ls -la
