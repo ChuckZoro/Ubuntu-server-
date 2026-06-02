@@ -24,4 +24,5 @@ I built an Ubuntu Server, connected to it using the SSH command, and performed b
 
 ### Step 2: Found the Server's IP address
 Command used: ip a
+<img width="642" height="566" alt="Screenshot 2026-06-01 182558" src="https://github.com/user-attachments/assets/087ec04d-31b5-4fae-a3b2-af88e4fcbdb8" />
 
