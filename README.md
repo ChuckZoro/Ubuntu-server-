@@ -23,13 +23,13 @@ I built an Ubuntu Server, connected to it using the SSH command, and performed b
 <img width="642" height="512" alt="Screenshot 2026-06-02 054500" src="https://github.com/user-attachments/assets/17174e9f-916b-4fe7-a635-25486e2ca731" />
 
 ### Step 2: Found the Server's IP address
-Command used: ip a
+Command used: ip a.
 
 ### Step 3: Installed SSH
-Command: sudo apt update
-Command: sudo apt install openssh-server
+Command: sudo apt update.
+Command: sudo apt install openssh-server.
 OpenSSH allows remote login access.          
 
 ### Step 4: Checked SSH Status
-Command: sudo systemctl status ssh
+Command: sudo systemctl status ssh.
 This command verifies whether the SSH service is running or not.
