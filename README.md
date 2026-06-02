@@ -22,4 +22,6 @@ I built an Ubuntu Server, connected to it using the SSH command, and performed b
   I created a new machine on Virtualbox and completed the basic setup.
 <img width="642" height="512" alt="Screenshot 2026-06-02 054500" src="https://github.com/user-attachments/assets/17174e9f-916b-4fe7-a635-25486e2ca731" />
 
+### Step 2: Found the Server's IP address
+Command used: ip a
 
