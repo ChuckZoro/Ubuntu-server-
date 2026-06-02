@@ -33,3 +33,6 @@ OpenSSH allows remote login access.
 ### Step 4: Checked SSH Status
 Command: sudo systemctl status ssh.
 This command verifies whether the SSH service is running or not.
+<img width="642" height="566" alt="Screenshot 2026-06-01 182558" src="https://github.com/user-attachments/assets/24f45056-3960-4d4d-a35c-a8dcc76f1380" />
+<img width="642" height="512" alt="Screenshot 2026-06-02 061818" src="https://github.com/user-attachments/assets/aae66e03-c79d-4e93-9ccf-16cbef1a0f13" />
+
