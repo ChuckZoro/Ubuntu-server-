@@ -35,3 +35,10 @@ Command: sudo systemctl status ssh.
 This command verifies whether the SSH service is running or not.
 <img width="642" height="512" alt="Screenshot 2026-06-02 061818" src="https://github.com/user-attachments/assets/aae66e03-c79d-4e93-9ccf-16cbef1a0f13" />
 
+### Step 5: Connected to the Server from another computer
+Command: ssh username@server_ip_address
+This command will connect a different computer to the server remotely using the SSH protocol.
+
+### Step 6: Basic Administration Commands Practiced
+-Command to check the current user: who am i
+-Command to check disk space: df -h
