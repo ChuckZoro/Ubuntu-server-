@@ -41,6 +41,7 @@ This command will connect a different computer to the server remotely using the 
 
 ### Step 6: Basic Administration Commands Practiced
 -Command to check the current user: who am i
+
 -Command to check disk space: df -h
 
 <img width="642" height="512" alt="Screenshot 2026-06-02 063300" src="https://github.com/user-attachments/assets/1aad7753-9e8f-42d2-81d9-f978117b9ae2" />
