@@ -38,6 +38,7 @@ This command verifies whether the SSH service is running or not.
 ### Step 5: Connected to the Server from another computer
 Command: ssh username@server_ip_address
 This command will connect a different computer to the server remotely using the SSH protocol.
+![Screenshot 2026-06-03 at 6 06 23 AM](https://github.com/user-attachments/assets/b7b28f53-7311-41a9-b24d-a9a897ce45e1)
 
 ### Step 6: Basic Administration Commands Practiced
 -Command to check the current user: who am i
