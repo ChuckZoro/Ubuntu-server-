@@ -52,3 +52,8 @@ This command will connect a different computer to the server remotely using the 
 -Command to check running processes: ps aux
 
 -Command to list files and directories: ls -la
+
+## Troubleshooting
+- I attempted to ssh into the ubuntu server but the connection refused.
+- After researching this issue I learned that openssh needed to be installed.
+- I installed openssh on the server and then I was able to ssh into the server from my macbook.
