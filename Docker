@@ -1,0 +1,32 @@
+# Docker
+
+## I will be installing Docker onto the Ubuntu server
+
+## Objective
+- Learn by doing
+-Practice using Linux commands
+
+## Skills
+-Linux
+-Docker
+-Docker compose
+
+## Lab environment
+- HP All-In-One
+  * Processor 11th Gen Intel Core i3
+  * Memory 8 GB
+  * Storage 477 GB
+
+- Ubuntu server
+  *26.04
+  * Bridged adapter
+  * Memory 4819 MB
+  * Storage 25 GB
+
+-MacBookAir 
+  * macOS Sequoia
+  * Memory 16 GB
+  * Chip Apple M3
+
+## Project Reqirements
+- Ubuntu server 26.04 installed on a VM
