@@ -1,6 +1,6 @@
 # Docker
 
-## I will be installing Docker onto the Ubuntu server
+## I will be installing Docker onto the Ubuntu server and running nginx as a container and connecting to it from my browser
 
 ## Objective
 - Learn by doing
@@ -30,3 +30,11 @@
 
 ## Project Reqirements
 - Ubuntu server 26.04 installed on a VM
+
+## Implementation
+
+1. Update the operating system
+2. Add Docker's official GPG key
+3. Add the repository to Apt sources
+4. Install from Apt repository
+
