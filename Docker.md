@@ -58,7 +58,7 @@
                                     
                                     URIs:https://download.docker.com/linux/ubuntu
                                     
-                                    Suites: $(. /etc/os-release && echo "${UBUNTU_CODENAME:-$VERSION_CODENAME}")
+                                    Suites:$(. /etc/os-release && echo "${UBUNTU_CODENAME:-$VERSION_CODENAME}")
                                     
                                     Components: stable
                                     
