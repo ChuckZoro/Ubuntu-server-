@@ -44,7 +44,7 @@
 -Update operating system: sudo apt update
 -Add dockers official GPG key: sudo apt install ca-certificates curl
                                sudo install -m 0755 -d /etc/apt/keyrings
-                               sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+                               sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -                                                          -o /etc/apt/keyrings/docker.asc
                                sudo chmod a+r /etc/apt/keyrings/docker.asc
 -Add the repository to Apt sources: sudo tee /etc/apt/sources.list.d/docker.sources <<EOF
                                     Types: deb
@@ -64,7 +64,8 @@
 - While attempting to set up docker's apt repository I received this message: Error: Release file for http://us.archive.ubuntu.com/ubuntu/dists/resolute-updates/Inrelease is not valid yet (invalid for another 2d 15h 17min 24s) Updates for this repository will not be applied.
   * It seems that linux believed that the date was in the past. An adjustment was necessary. To resolve this issue I synchronized the time by running this command: sudo apt install systemd-timesyncd. To enable it I ran this command: sudo systemctl enable --now systemd-timesyncd
 
-![Ubuntu-server-Screenshot](image-Troubleshoot installing systemd-timesyncd.png)
+![Troubleshoot installing systemd-timesyncd](https://github.com/user-attachments/assets/e081054a-ebcc-46f0-9b15-985cb4ac313c)
+
 
 
 
