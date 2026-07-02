@@ -4,9 +4,7 @@
 
 ## Objective
 
-- Learn by doing
-
--Practice using Linux commands
+- The objective of this project is to learn by doing and to document the lab clearly, troubleshoot the issues that I had, and to document the lessons that I learned from this lab.
 
 ## Skills
 -Linux
