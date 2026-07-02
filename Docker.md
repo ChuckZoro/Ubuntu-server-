@@ -77,7 +77,7 @@
 
 -Install docker:
 
-                 sudo apt install docker-ce docker-ce-cli containered.io docker-buildx-plugin docker-compose-plugin
+                 sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 
 -Verify that docker is running: 
                                 
