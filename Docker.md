@@ -4,6 +4,7 @@
 
 ## Objective
 - Learn by doing
+
 -Practice using Linux commands
 
 ## Skills
