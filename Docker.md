@@ -102,6 +102,9 @@ Status of docker:
 ![Screenshot 2026-07-02 at 6 30 47 AM](https://github.com/user-attachments/assets/adc57269-6383-4473-8193-da30bc0986a5)
 
 
+Run hello-world in docker:
+
+![Screenshot 2026-07-02 at 6 27 27 AM](https://github.com/user-attachments/assets/a6fa7e1f-c6a8-4e67-9a98-87d4e99e0d7a)
 
 
 
