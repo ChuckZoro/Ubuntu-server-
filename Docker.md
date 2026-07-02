@@ -1,6 +1,6 @@
 # Docker
 
-## I will be installing Docker onto the Ubuntu server and running nginx as a container and connecting to it from my browser
+## I will be installing Docker onto the Ubuntu server 
 
 ## Objective
 
