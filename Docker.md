@@ -86,7 +86,9 @@
                                 sudo docker run hello-world
 
 ## Troubleshooting
-- While attempting to set up docker's apt repository I received this message: Error: Release file for http://us.archive.ubuntu.com/ubuntu/dists/resolute-updates/Inrelease is not valid yet (invalid for another 2d 15h 17min 24s) Updates for this repository will not be applied.
+- While attempting to set up docker's apt repository I received this message:
+
+                                                                              Error: Release file for http://us.archive.ubuntu.com/ubuntu/dists/resolute-updates/Inrelease is not valid yet (invalid for another 2d 15h 17min 24s) Updates for this repository will not be applied.
 
   * It seems that linux believed that the date was in the past. An adjustment was necessary. To resolve this issue I synchronized the time by running this command: sudo apt install systemd-timesyncd. To enable it I ran this command: sudo systemctl enable --now systemd-timesyncd
 
