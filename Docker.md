@@ -95,5 +95,18 @@
 ![Troubleshoot installing systemd-timesyncd](https://github.com/user-attachments/assets/e081054a-ebcc-46f0-9b15-985cb4ac313c)
 
 
+## Verification
+
+Status of docker:
+
+![Screenshot 2026-07-02 at 6 30 47 AM](https://github.com/user-attachments/assets/adc57269-6383-4473-8193-da30bc0986a5)
+
+
+
+
+
+
+
+
 
 
