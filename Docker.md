@@ -106,7 +106,10 @@ Run hello-world in docker:
 
 ![Screenshot 2026-07-02 at 6 27 27 AM](https://github.com/user-attachments/assets/a6fa7e1f-c6a8-4e67-9a98-87d4e99e0d7a)
 
+## Lessons learned
 
+- I learned how to use the official documentation when learning about and installing a new technology.
+- If your computer's clock is not sychronized with the Network Time Protocol there may be a valid certificate conflict.
 
 
 
