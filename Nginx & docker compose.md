@@ -21,3 +21,8 @@
 - Mac os terminal
 
 - Nginx
+
+## Project Requirements
+- All of the previous labs in this repository.
+
+  ## Implementation
