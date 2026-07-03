@@ -25,7 +25,7 @@
   * Memory 4819 MB
   * Storage 25 GB
 
--MacBookAir 
+- MacBookAir 
   * macOS Sequoia
   * Memory 16 GB
   * Chip Apple M3
