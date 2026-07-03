@@ -10,6 +10,10 @@
 -Nginx
 
 ## Lab environment
+- Host computer: Macbook $ Windows PC
+
+- Hypervisor: Virtualbox
+
 - Linux server 26.04 VM
 
 - Docker
