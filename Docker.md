@@ -8,7 +8,9 @@
 
 ## Skills
 -Linux
+
 -Docker
+
 -Docker compose
 
 ## Lab environment
