@@ -26,3 +26,10 @@
 - All of the previous labs in this repository.
 
   ## Implementation
+  - Install docker compose from the repository
+ 
+  - Pull nginx image
+ 
+  - Create yaml file
+ 
+  - Access nginx from the browser
