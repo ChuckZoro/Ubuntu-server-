@@ -110,7 +110,7 @@ Run hello-world in docker:
 
 - I learned how to use the official documentation when learning about and installing a new technology.
 - If your computer's clock is not sychronized with the Network Time Protocol there may be a valid certificate conflict.
-
+- In github when adding a file to a repository, you need to add .md to the file to make it a markdown file. If not,  you will not be able to add photos to the file.
 
 
 
