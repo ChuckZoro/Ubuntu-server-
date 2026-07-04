@@ -33,3 +33,33 @@
   - Run nginx
  
   - Access nginx from the browser
+
+## Commands used
+
+- sudo apt-get update
+
+- sudo apt-get install docker-compose-plugin
+
+- docker compose version
+
+- sudo docker pull nginx:stable
+
+- sudo docker run --name -d -p 8080:80 nginx:stable
+
+- mkdir Docker
+
+- mkdir nginx
+
+- mkdir -p html
+
+- nano compose.yaml
+
+  ## Verification
+
+  - Docker compose installed
+
+
+
+
+
+
