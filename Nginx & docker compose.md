@@ -60,6 +60,9 @@
 
 ![Screenshot 2026-07-04 at 10 58 59 AM](https://github.com/user-attachments/assets/689f1f6a-e2d5-409c-9a7a-4031f3bc8ab6)
 
+Access nginx from my browser:
+
+![Screenshot 2026-07-04 at 11 12 40 AM](https://github.com/user-attachments/assets/558305f4-7910-4b07-b412-cdf8a7c36ba7)
 
 
 
