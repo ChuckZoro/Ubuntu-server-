@@ -64,6 +64,15 @@ Access nginx from my browser:
 
 ![Screenshot 2026-07-04 at 11 12 40 AM](https://github.com/user-attachments/assets/558305f4-7910-4b07-b412-cdf8a7c36ba7)
 
+## Troubleshooting
 
+- I had difficulty setting up volumes and the yaml file for docker compose. I created the yaml file but I ran into great difficulty with learning how to apply the code to the yaml file. As of now, I have not resolved this issue but I will continue to work on this issue.
+
+  ## Lessons learned
+
+- Docker compose simplifies running and stopping a container.  It requires a yaml file.
+
+- Nginx web server can be accessed anywhere from the internet and also can be configures as a reverse proxy
+  
 
 
