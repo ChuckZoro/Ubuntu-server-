@@ -11,8 +11,6 @@
 
 -Docker
 
--Docker compose
-
 ## Lab environment
 - HP All-In-One
   * Processor 11th Gen Intel Core i3
