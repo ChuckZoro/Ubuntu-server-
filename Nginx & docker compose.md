@@ -30,6 +30,6 @@
  
   - Pull nginx image
  
-  - Create yaml file
+  - Run nginx
  
   - Access nginx from the browser
