@@ -58,6 +58,7 @@
 
   - Docker compose installed
 
+![Screenshot 2026-07-04 at 10 58 59 AM](https://github.com/user-attachments/assets/689f1f6a-e2d5-409c-9a7a-4031f3bc8ab6)
 
 
 
