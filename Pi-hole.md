@@ -62,6 +62,7 @@
 
 - I received this error message:
 
+
 ![Screenshot 2026-07-04 at 2 22 06 PM](https://github.com/user-attachments/assets/c6e6f2af-5de1-48a1-84a8-402c72095be1)
 
 
