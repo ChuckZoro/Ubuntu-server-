@@ -47,3 +47,15 @@
   - nano compose yml
  
   - ## Verification
+
+
+![Screenshot 2026-07-06 at 5 42 52 AM](https://github.com/user-attachments/assets/ba1ce102-5f8a-40a2-871e-a5fc7e5c1ddf)
+
+
+
+
+
+
+
+![Screenshot 2026-07-06 at 5 42 52 AM](https://github.com/user-attachments/assets/010b8ef3-6fe2-418f-a1f8-827028856bcb)
+![Screenshot 2026-07-06 at 5 42 52 AM](https://github.com/user-attachments/assets/f21f4802-c3ca-4f32-85c6-60eff06c6196)
