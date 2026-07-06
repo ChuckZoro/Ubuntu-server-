@@ -55,7 +55,8 @@
 
 - Accessed Pi-hole via my browser:
 
-  <img width="1920" height="1044" alt="Screenshot 2026-07-04 145357" src="https://github.com/user-attachments/assets/fa5f6d04-a34f-416d-9d97-1742de20d33f" />
+ <img width="1920" height="1044" alt="Screenshot 2026-07-04 145357" src="https://github.com/user-attachments/assets/a04137a7-8e11-4106-a6e1-cf530711425a" />
+
 
 
 ## Troubleshooting
