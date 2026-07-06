@@ -66,7 +66,8 @@
 
 ![Screenshot 2026-07-04 at 2 22 06 PM](https://github.com/user-attachments/assets/c6e6f2af-5de1-48a1-84a8-402c72095be1)
 
-
+* There was a problem with Pi-hole being able to use port 53 because it was already in use. I ran the command "sudo ss -tulnp | grep" and determined that systemd-resolved was using port 53.
+* To fix this issue I ran "sudo systemctl disable systemd-resolved" and "sudo systemctl stop systemd-resolved". 
 
 
   
