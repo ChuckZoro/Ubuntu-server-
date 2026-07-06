@@ -72,7 +72,7 @@ Access nginx from my browser:
 
 - Docker compose simplifies running and stopping a container.  It requires a yaml file.
 
-- Nginx web server can be accessed anywhere from the internet and also can be configures as a reverse proxy
+- Nginx web server can be accessed anywhere from the internet and also can be configured as a reverse proxy.
   
 
 
