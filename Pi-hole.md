@@ -69,7 +69,11 @@
 * There was a problem with Pi-hole being able to use port 53 because it was already in use. I ran the command "sudo ss -tulnp | grep" and determined that systemd-resolved was using port 53.
 * To fix this issue I ran "sudo systemctl disable systemd-resolved" and "sudo systemctl stop systemd-resolved".
 
-  -Also, I received this error message as well:
+  - DNS resolution is currently unavailable:
+  
+  
+    ![Screenshot 2026-07-04 at 2 30 07 PM](https://github.com/user-attachments/assets/d6d27207-628b-49e2-a0e7-de8b08c708f0)
+
 
 
 
