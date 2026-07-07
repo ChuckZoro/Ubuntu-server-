@@ -74,11 +74,19 @@
   
     ![Screenshot 2026-07-04 at 2 30 07 PM](https://github.com/user-attachments/assets/d6d27207-628b-49e2-a0e7-de8b08c708f0)
 
+* To resolve this issue I added the DNS information to the yaml file.
 
+## Lessons learned
 
+- In order to start Pi-hole I need to be in the pihole directory where the yaml file is stored.
 
+- Putting different services in different directories protects against all services going down at once.
+
+- Only one service can be listening on one IP address, port, and protocol at the same time, otherwise it will create a conflict.
+
+- For pi-hole, DNS needs to be in the yaml file to operate.
   
-
+- Pi-hole sits between your computer and the DNS resolver. It has the ability to block traffic at the DNS level, depending on if the domain name is on it's block list or not.
 
   
 
