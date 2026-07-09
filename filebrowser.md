@@ -50,6 +50,7 @@
 - I also received this error:  
   
   
+![Screenshot 2026-07-08 at 5 39 08 AM](https://github.com/user-attachments/assets/e8511514-63a6-4756-a4e1-73e095e04528)
 
 
 
