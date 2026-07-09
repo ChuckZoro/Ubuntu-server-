@@ -52,6 +52,15 @@
   
 ![Screenshot 2026-07-08 at 5 39 08 AM](https://github.com/user-attachments/assets/e8511514-63a6-4756-a4e1-73e095e04528)
 
+* When installing the filbrowser into docker it was not able to create the files that it needed
+* This is a linux file permission issue on the host side. 
+* To resolve this issue I ran three commands:
+  - sudo chown -R 1000:1000 ~/filebrowser
+  - sudo chown -R 1000:1000 ~/filebrowser/config
+  - sudo chown -R 1000:1000 ~/filebrowser/cloud-files
+
+  ## Lessons learned
+
 
 
 
