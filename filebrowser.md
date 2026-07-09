@@ -41,6 +41,12 @@
 - I received this error message:
 
   ![Screenshot 2026-07-08 at 5 11 41 AM](https://github.com/user-attachments/assets/7fc23a7d-ff34-4151-9f34-1c3b3b0315b3)
+
+  * This error message stated that there was a temporary failure resloving download.docker.com and other domain names. This is a DNS problem.
+  * The problem was that Pi-hole (which is my DNS server now) was down.
+  * To resolve this problem I changed directory into the pihole directory and ran sudo docker compose up -d.
+
+  - I also received this error:  
   
   
 
