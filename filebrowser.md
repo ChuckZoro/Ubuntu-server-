@@ -46,7 +46,7 @@
   * The problem was that Pi-hole (which is my DNS server now) was down.
   * To resolve this problem I changed directory into the pihole directory and ran sudo docker compose up -d.
 
-  - I also received this error:  
+  -I also received this error:  
   
   
 
