@@ -38,5 +38,15 @@
    <img width="1917" height="1044" alt="Screenshot 2026-07-08 061438" src="https://github.com/user-attachments/assets/8296abbc-345f-4b59-9f26-aaca3b1b9f80" />
 
    ## Troubleshooting
+- I received this error message:
+
+  ![Screenshot 2026-07-08 at 5 11 41 AM](https://github.com/user-attachments/assets/7fc23a7d-ff34-4151-9f34-1c3b3b0315b3)
+  
+  
+
+
+
+
+  
 
 
