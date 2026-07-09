@@ -28,4 +28,7 @@
 - sudo docker compose up -d
 
   ## Verification
-- 
+- Filebrowser installed in docker:
+
+  ![Screenshot 2026-07-08 at 5 26 08 AM](https://github.com/user-attachments/assets/3e8b7c26-4226-4b63-9fb6-efc9cf4c2d4b)
+
