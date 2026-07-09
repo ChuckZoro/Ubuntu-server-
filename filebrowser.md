@@ -32,3 +32,8 @@
 
   ![Screenshot 2026-07-08 at 5 26 08 AM](https://github.com/user-attachments/assets/3e8b7c26-4226-4b63-9fb6-efc9cf4c2d4b)
 
+  - Filebrowser accessed through the dashboard via the browser:
+  
+   <img width="1917" height="1044" alt="Screenshot 2026-07-08 061438" src="https://github.com/user-attachments/assets/8296abbc-345f-4b59-9f26-aaca3b1b9f80" />
+
+
