@@ -19,7 +19,7 @@
 - Pull filebrowser image
 - Create filebrowser directory
 - Create Yaml file
-- Acess file browser dashboard through the browser
+- Access file browser dashboard through the browser
 
   ## Commands used
 - mkdir filebrowser
@@ -60,6 +60,9 @@
   - sudo chown -R 1000:1000 ~/filebrowser/cloud-files
 
   ## Lessons learned
+  - I learned that the image creates a non-root user with UID 1000 and GID 1000, then it runs the filebrowser as that user.
+  - Inside the Yaml file under volumes, docker compose defines the directory mount. What this means is that Docker compose connects a directory on the host computer to a directory inside the Docker container.
+  - In order for a directory mount to take place linux needs to know if docker compose has permission to write to the host directory. (This is why it was neccessary to run those "sudo chown" commands in the troubleshooting section)
 
 
 
