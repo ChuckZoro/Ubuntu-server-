@@ -40,6 +40,12 @@
 
 <img width="1916" height="1013" alt="Screenshot 2026-07-13 061006" src="https://github.com/user-attachments/assets/86b6e9a2-3689-40e1-8e70-4e1a212ee529" />
 
+## Troubleshooting
+- This lab went smoothly without any issues
+
+## Lessons Learned
+- Immich creates 4 containers. immich_server, immich_machine_learning, immich_redis, & immich_postgres.
+- Forwarding port 2283 directly to the internet without configuring a VPN tunnel is not secure. Doing this would risk being a victim of a man in the middle attack.
 
 
 
