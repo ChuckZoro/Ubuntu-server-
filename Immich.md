@@ -31,3 +31,33 @@
 
 ## Verification
 - Immich installed in docker:
+
+![Screenshot 2026-07-13 at 6 01 03 AM](https://github.com/user-attachments/assets/8c953d2c-5bdf-4c8c-9400-3cd4170e5906)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Screenshot 2026-07-13 at 6 01 03 AM](https://github.com/user-attachments/assets/51b6a1c7-b23a-4be8-8c31-7fba5639585b)
