@@ -30,12 +30,12 @@
 - http://192.168.1.107:2883
 
 ## Verification
-- Immich installed in docker:
+- Immich has been installed in docker:
 
 ![Screenshot 2026-07-13 at 6 01 03 AM](https://github.com/user-attachments/assets/8c953d2c-5bdf-4c8c-9400-3cd4170e5906)
 
 
-- Immich dashboard accessed via a web browser:
+- Immich's dashboard has been accessed via a web browser:
 
 
 <img width="1916" height="1013" alt="Screenshot 2026-07-13 061006" src="https://github.com/user-attachments/assets/86b6e9a2-3689-40e1-8e70-4e1a212ee529" />
