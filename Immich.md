@@ -46,6 +46,8 @@
 ## Lessons Learned
 - Immich creates 4 containers. immich_server, immich_machine_learning, immich_redis, & immich_postgres.
 - Forwarding port 2283 directly to the internet without configuring a VPN tunnel is not secure. Doing this would risk being a victim of a man in the middle attack.
+- In Docker compose, depends_on dictates the order that the containers start up. This is important because some containers need the other ones up in order to run.
+- Redis is software that has very fast memory. It mainly keeps the data in RAM, which makes it very fast to access.
 
 
 
