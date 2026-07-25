@@ -1,5 +1,5 @@
 # Linux Server Administration Project
-Download Ubuntu Server, SSh into it and use basic admin commands in it.
+Download Ubuntu Server, ssh into it and use basic admin commands in it.
 
 ## Project Overview
 I built an Ubuntu Server, connected to it using the SSH command, and performed basic system administration.
