@@ -39,4 +39,4 @@ This project documents the creation of my Docker-based home lab. It includes bui
     ### Infrastructure
 
     - [Docker](docs/Docker.md)
-    - [Nginx](docs/Nginx & docker compose.md)
+    - [Nginx](docs/Nginx&dockercompose.md)
