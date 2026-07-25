@@ -38,4 +38,4 @@ This project documents the creation of my Docker-based home lab. It includes bui
  
     ### Infrastructure
 
-    - [Docker](docs/docker.md)
+    - [Docker](docs/Docker.md)
