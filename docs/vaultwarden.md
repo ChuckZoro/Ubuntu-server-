@@ -35,6 +35,15 @@
   - I accessed vaultwarden via the browser on port 8083.
  
 
-      <img width="1886" height="1010" alt="Screenshot 2026-07-20 060720" src="https://github.com/user-attachments/assets/387ade9b-aa20-4229-a6fe-f14ad3c096e9" />
+
+  <img width="1886" height="1010" alt="Screenshot 2026-07-20 060720" src="https://github.com/user-attachments/assets/387ade9b-aa20-4229-a6fe-f14ad3c096e9" />
+
+## Troubleshooting
+
+- When I accessed the Vaultwarden dashboard I got a message that said that HTTPS is required.
+- I needed to figure out how to encrypt the data going to vaultwarden.
+- To accomplish this I used a self-signed certificate via caddy.
+- In order to access the dashboard I added the hostname to the host file on Windows. C:\Windows\System32\drivers\etc\hosts  
 
 
+<img width="1138" height="443" alt="Screenshot 2026-07-24 182452" src="https://github.com/user-attachments/assets/3966f537-aeb5-42af-a4c1-3c633d5dc6e4" />
