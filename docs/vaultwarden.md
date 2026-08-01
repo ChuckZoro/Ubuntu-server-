@@ -6,7 +6,7 @@
 
 ## Purpose
 
-- I included Vaultwarden in my home lab because I wanted to learn more about password managers, https,  and self-signed certificates. Also, I want to practice making backups and provide updates to the application.
+- I included Vaultwarden in my home lab because I wanted to learn more about password managers, https,  and self-signed certificates. Also, I wanted to practice making backups and provide updates to the application.
  
 ## Role in my home lab
 
@@ -48,3 +48,9 @@
 
 
 <img width="1138" height="443" alt="Screenshot 2026-07-24 182452" src="https://github.com/user-attachments/assets/3966f537-aeb5-42af-a4c1-3c633d5dc6e4" />
+
+## Lesson Learned
+
+- Caddy has an internal CA that signs the certificate.
+- Even though Caddy created a self-signed certificate my computer did not trust it. You can see why having a trusted third-party signed certificate is very important for security.
+  
