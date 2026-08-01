@@ -52,5 +52,6 @@
 ## Lesson Learned
 
 - Caddy has an internal CA that signs the certificate.
-- Even though Caddy created a self-signed certificate my computer did not trust it. You can see why having a trusted third-party signed certificate is very important for security.
+- Even though Caddy created a self-signed certificate my browser did not trust it.
+- In order for your browser to trust a self-signed certificate you have to copy the root certificate under the Trusted Root Certification Authorities in Windows.
   
