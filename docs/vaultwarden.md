@@ -46,4 +46,5 @@
 - In order to access the dashboard I added the hostname to the host file on Windows. C:\Windows\System32\drivers\etc\hosts  
 
 
+
 <img width="1138" height="443" alt="Screenshot 2026-07-24 182452" src="https://github.com/user-attachments/assets/3966f537-aeb5-42af-a4c1-3c633d5dc6e4" />
