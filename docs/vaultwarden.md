@@ -34,5 +34,6 @@
 
   - I accessed vaultwarden via the browser on port 8083.
  
-  <img width="1138" height="443" alt="Screenshot 2026-07-24 182452" src="https://github.com/user-attachments/assets/eaa608ae-8ac6-45a4-a010-660bb773deee" />
+  <img width="1886" height="1010" alt="Screenshot 2026-07-20 060720" src="https://github.com/user-attachments/assets/387ade9b-aa20-4229-a6fe-f14ad3c096e9" />
+
 
