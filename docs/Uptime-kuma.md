@@ -32,3 +32,6 @@
 
   <img width="680" height="504" alt="Screenshot 2026-08-02 110942" src="https://github.com/user-attachments/assets/08b2977d-955a-4091-a712-b6fc02efa20f" />
 
+  <img width="2509" height="1311" alt="Screenshot 2026-08-04 045555" src="https://github.com/user-attachments/assets/860531a1-4691-4a36-8834-7c15b064fbd5" />
+
+
