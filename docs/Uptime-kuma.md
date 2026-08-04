@@ -47,7 +47,12 @@
 - I realized that the reason I was getting this error message was because I used Caddy to create a certificate but it is not trusted. My browser does not trust it and uptime does not trust it either.
 - To resolve this error message I allowed Uptime Kuma to ignore TLS/SSL errors for HTTPS websites only for Vaultwarden.
 
-<img width="349" height="37" alt="Screenshot 2026-08-04 051837" src="https://github.com/user-attachments/assets/7de90dcd-581c-4ae3-97fe-f95b11d564df" />
+  <img width="349" height="37" alt="Screenshot 2026-08-04 051837" src="https://github.com/user-attachments/assets/7de90dcd-581c-4ae3-97fe-f95b11d564df" />
+
+## Lesson Learned
+
+- Monitoring all of your services on a server is time consuming when done manually.
+- Self-signed certificates are not trusted. They only prove encryption, not identity. There needs to be an independent party confirming who owns it. Otherwise, anyone could create one for malicious purposes.
 
  
 
