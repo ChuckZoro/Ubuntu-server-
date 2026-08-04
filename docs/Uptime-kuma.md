@@ -38,4 +38,13 @@
 
    <img width="2513" height="1285" alt="Screenshot 2026-08-04 045917" src="https://github.com/user-attachments/assets/2507a4fe-16b9-4190-9a75-ffe9b5c2d53c" />
 
+## Troubleshooting
+
+- Vaultwarden service was showing down because Uptime Kuma did not recognize the self-signed certificate.
+
+<img width="1675" height="1225" alt="Screenshot 2026-08-02 115807" src="https://github.com/user-attachments/assets/f5f856a0-93e4-440b-aa4c-ac348a55c08a" />
+
+
+
+
 
