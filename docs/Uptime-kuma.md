@@ -1,4 +1,3 @@
-<img width="2513" height="1285" alt="Screenshot 2026-08-04 045917" src="https://github.com/user-attachments/assets/916c63c8-4fbe-457f-80a4-eb3543076bbd" />
 # Uptime Kuma
 
 ## Overview
