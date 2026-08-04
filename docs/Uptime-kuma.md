@@ -42,7 +42,19 @@
 
 - Vaultwarden service was showing down because Uptime Kuma did not recognize the self-signed certificate.
 
-<img width="1675" height="1225" alt="Screenshot 2026-08-02 115807" src="https://github.com/user-attachments/assets/f5f856a0-93e4-440b-aa4c-ac348a55c08a" />
+  <img width="1675" height="1225" alt="Screenshot 2026-08-02 115807" src="https://github.com/user-attachments/assets/f5f856a0-93e4-440b-aa4c-ac348a55c08a" />
+
+- I realized that the reason I was getting this error message was because I used Caddy to create a certificate but it is not trusted. My browser does not trust it and uptime does not trust it either.
+- To resolve this error message I allowed Uptime Kuma to ignore TLS/SSL errors for HTTPS websites only for Vaultwarden.
+
+<img width="349" height="37" alt="Screenshot 2026-08-04 051837" src="https://github.com/user-attachments/assets/7de90dcd-581c-4ae3-97fe-f95b11d564df" />
+
+ 
+
+
+
+
+
 
 
 
