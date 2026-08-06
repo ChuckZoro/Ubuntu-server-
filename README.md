@@ -14,7 +14,7 @@ This project documents the creation of my Docker-based home lab. It includes bui
 - Secure services with https
 - Practice troubleshooting and documentation
 
-  ## Technologies Used
+## Technologies Used
 
 - Linux
 - Docker
@@ -26,17 +26,17 @@ This project documents the creation of my Docker-based home lab. It includes bui
 - Vaultwarden
 - Uptime Kuma
 
-  ## Architecture
+## Architecture
 
-  - Docker runs the applications inside a container on my Linux Server.
-  - Pi-hole provides DNS
-  - Nginx creates a reverse proxy for better security
-  - Immich provides cloud storage for photos
-  - Filebrowser allows access to files in the cloud
-  - Uptime Kuma provides network monitoring
-  - Vaultwarden provides password manager sevices
+- Docker runs the applications inside a container on my Linux Server.
+- Pi-hole provides DNS
+- Nginx creates a reverse proxy for better security
+- Immich provides cloud storage for photos
+- Filebrowser allows access to files in the cloud
+- Uptime Kuma provides network monitoring
+- Vaultwarden provides password manager sevices
  
-    ### Infrastructure
+### Infrastructure
 
-    - [Docker](docs/Docker.md)
-    - [Nginx](docs/Nginx.md)
+- [Docker](docs/Docker.md)
+- [Nginx](docs/Nginx.md)
