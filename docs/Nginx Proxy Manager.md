@@ -44,3 +44,10 @@
 
 - docker network inspect showing all containers:
 
+![Screenshot 2026-08-21 at 4 51 58 AM](https://github.com/user-attachments/assets/82760f0d-b2fe-434a-8cc5-a364e0bcf507)
+
+
+![Screenshot 2026-08-21 at 4 51 29 AM](https://github.com/user-attachments/assets/c9df24f5-1132-42e2-8def-4d54966e58b0)
+
+
+![Screenshot 2026-08-21 at 4 52 47 AM](https://github.com/user-attachments/assets/e141ead9-9b5b-4ba6-96a6-c9c0abeff34a)
