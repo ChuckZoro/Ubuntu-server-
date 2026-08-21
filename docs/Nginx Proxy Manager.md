@@ -2,11 +2,11 @@
 
 ## Overview
 
-- A reverse proxy is a server that sits in front and conceals the identity of backend servers.
+- A reverse proxy is a server that sits in front of and conceals the identity of backend servers.
 
 ## Purpose
 
-- I included adding a reverse proxy to this lab to increase security through HTTPS and to create a shared network for all docker applications so I can access them by name in my browser.
+- I included a reverse proxy to this lab to increase security through HTTPS. To allow my proxy manager to communicate with the other containers it's necessary to create a shared network to resolve each container by name through the Nginx proxy manager.
 
 ## Installation
 
