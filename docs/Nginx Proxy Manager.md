@@ -100,4 +100,4 @@ Filebrowser loading over HTTPS:
 
 - When you put the proxy manager on a shared docker network you connect to them using container names and internal port numbers.
 
-- When you type in the address DNS will resolve the IP where the Nginx Proxy Manager lives. Then the browser sends a HTTPS request containing the hostname. Nginx Proxy Manager will then match the hostname to the Proxy host rule and forward the web request to the container.
+- When you type in the address DNS will resolve the IP where the Nginx Proxy Manager lives. Then the browser sends a HTTPS request containing the hostname to the proxy manager. Nginx Proxy Manager will then match the hostname to the Proxy host rule and forward the web request to the container.
