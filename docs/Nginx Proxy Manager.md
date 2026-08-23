@@ -98,6 +98,6 @@ Filebrowser loading over HTTPS:
 
 - When you create your own domain you can set up DNS zones within that domain to point towards different services.
 
-- When you put the proxy manager on a shared docker network you connect to them using internal port numbers.
+- When you put the proxy manager on a shared docker network you connect to them using container names and internal port numbers.
 
 
