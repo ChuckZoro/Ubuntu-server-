@@ -6,7 +6,9 @@
 
 ## Purpose
 
-- I included a reverse proxy to this lab to increase security through HTTPS. To allow my proxy manager to communicate with the other containers it's necessary to create a shared network to resolve each container by name through the Nginx proxy manager.
+- I included a reverse proxy to this lab to increase security through HTTPS.
+
+- To allow my proxy manager to communicate with the other containers it's necessary to create a shared network to resolve each container by name through the Nginx Proxy Manager.
 
 ## Installation
 
