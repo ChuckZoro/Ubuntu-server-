@@ -1,4 +1,3 @@
-<img width="1951" height="390" alt="Screenshot 2026-08-23 044443" src="https://github.com/user-attachments/assets/46bc1114-c348-454b-a7c7-2c74b68508c9" />
 # Nginx Proxy Manager
 
 ## Overview
