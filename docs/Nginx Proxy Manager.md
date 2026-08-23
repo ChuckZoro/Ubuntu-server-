@@ -63,3 +63,7 @@ Filebrowser loading over HTTPS:
 
 
 <img width="3441" height="1628" alt="Screenshot 2026-08-23 031855" src="https://github.com/user-attachments/assets/0ec2c24f-f3e8-402f-be36-68eb5e8058de" />
+
+
+## Troubleshooting
+
