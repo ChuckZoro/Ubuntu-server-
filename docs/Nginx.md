@@ -25,14 +25,14 @@
 ## Project Requirements
 - All of the previous labs in this repository.
 
-  ## Implementation
-  - Install docker compose from the repository
+## Implementation
+- Install docker compose from the repository
  
-  - Pull nginx image
+- Pull nginx image
  
-  - Run nginx
+- Run nginx
  
-  - Access nginx from the browser
+- Access nginx from the browser
 
 ## Commands used
 
