@@ -1,3 +1,4 @@
+<img width="1951" height="390" alt="Screenshot 2026-08-23 044443" src="https://github.com/user-attachments/assets/46bc1114-c348-454b-a7c7-2c74b68508c9" />
 # Nginx Proxy Manager
 
 ## Overview
@@ -77,6 +78,4 @@ Filebrowser loading over HTTPS:
 - Nginx Proxy Manager running:
 
 
-
-
-
+<img width="1951" height="390" alt="Screenshot 2026-08-23 044443" src="https://github.com/user-attachments/assets/a0678811-36d8-441f-9934-68ca59f0ccfa" />
