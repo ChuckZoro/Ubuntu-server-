@@ -67,3 +67,16 @@ Filebrowser loading over HTTPS:
 
 ## Troubleshooting
 
+- Vaultwarden was interfering with starting the Nginx Proxy Manager:
+
+
+![Screenshot 2026-08-13 at 4 59 06 AM](https://github.com/user-attachments/assets/54699692-5cb7-4f22-800c-6cbf7f4b044e)
+
+- To resolve this issue I removed Caddy from the yaml file.
+
+- Nginx Proxy Manager running:
+
+
+
+
+
