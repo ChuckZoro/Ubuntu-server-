@@ -86,3 +86,11 @@ Filebrowser loading over HTTPS:
 
 <img width="427" height="175" alt="Screenshot 2026-08-23 023957" src="https://github.com/user-attachments/assets/b8f61774-eccf-4fb6-894d-d3ebc351f1ca" />
 
+- To resolve this issue I changed the internal port in Nginx Proxy Manager from 8082 to port 80.
+
+- File browser working with Nginx Proxy Manager properly configured:
+
+
+<img width="3441" height="1628" alt="Screenshot 2026-08-23 031855" src="https://github.com/user-attachments/assets/16710a3d-4b95-4261-bdc4-86c0500eb1e3" />
+
+
