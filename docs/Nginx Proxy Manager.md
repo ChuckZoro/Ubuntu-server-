@@ -51,3 +51,15 @@
 
 
 ![Screenshot 2026-08-21 at 4 52 47 AM](https://github.com/user-attachments/assets/e141ead9-9b5b-4ba6-96a6-c9c0abeff34a)
+
+
+- Nginx Proxy Manager proxy host list:
+
+
+<img width="1950" height="622" alt="Screenshot 2026-08-23 042442" src="https://github.com/user-attachments/assets/6fd9cc9f-b3a1-45b9-8902-6a26a8aefaf2" />
+
+
+Filebrowser loading over HTTPS:
+
+
+<img width="3441" height="1628" alt="Screenshot 2026-08-23 031855" src="https://github.com/user-attachments/assets/0ec2c24f-f3e8-402f-be36-68eb5e8058de" />
