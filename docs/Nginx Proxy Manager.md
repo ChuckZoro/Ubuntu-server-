@@ -79,3 +79,10 @@ Filebrowser loading over HTTPS:
 
 
 <img width="1951" height="390" alt="Screenshot 2026-08-23 044443" src="https://github.com/user-attachments/assets/a0678811-36d8-441f-9934-68ca59f0ccfa" />
+
+
+- I received a 502 Bad Gateway message:
+
+
+<img width="427" height="175" alt="Screenshot 2026-08-23 023957" src="https://github.com/user-attachments/assets/b8f61774-eccf-4fb6-894d-d3ebc351f1ca" />
+
