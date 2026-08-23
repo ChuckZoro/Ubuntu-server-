@@ -94,4 +94,10 @@ Filebrowser loading over HTTPS:
 
 <img width="3441" height="1628" alt="Screenshot 2026-08-23 031855" src="https://github.com/user-attachments/assets/16710a3d-4b95-4261-bdc4-86c0500eb1e3" />
 
+## Lessons learned
+
+- When you create your own domain you can set up DNS zones within that domain to point towards different services.
+
+- When you put the proxy manager on a shared docker network you connect to them using internal port numbers.
+
 
