@@ -54,6 +54,15 @@ It's worth noting that the path has to be exact and the http status:404 has to b
 
 - Dns record that I created to point towards the cloudflared tunnel. Domain name has been edited out.
 
+  <img width="871" height="233" alt="Screenshot 2026-09-09 160330" src="https://github.com/user-attachments/assets/49f89512-0e50-4903-8b07-ee5534190318" />
+
+- I accessed Uptime-kuma vai cloudflared tunnel.
+
+  ## Troubleshooting
+
+  
+
+
 ## Troubleshooting
 
 
