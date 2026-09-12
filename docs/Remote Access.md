@@ -3,7 +3,7 @@
 ## Overview
 - This lab is about creating remote access to my server outside of my own network.
 - For security there will be no open ports on my firewall.
-- My server will connect to cloudflare via a outgoing connection which will prevent everything being exposed on my network.
+- My server will connect to cloudflare via an outgoing connection which will prevent other services from being exposed on my network.
 
 ## Network And Service Architecture
 
