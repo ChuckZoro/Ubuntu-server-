@@ -64,7 +64,9 @@ It's worth noting that the path has to be exact and the http status:404 has to b
 
  <img width="854" height="138" alt="Screenshot 2026-09-09 132159" src="https://github.com/user-attachments/assets/35aacf56-caeb-4874-80e2-c148be2addf5" />
 
-- The issue I had was that when I set up the CNAME record I made an error in the ending of the target ID.  It goes like this: <tunnel ID>.cfargotunnel.com.
+- The issue was that Pi-hole was not running and the VM could not resolve the tunnel's endpoints.
+
+- Another problem that I had was that when I set up the CNAME record I made an error in the ending of the target ID.  It goes like this: <tunnel ID>.cfargotunnel.com.
 
 - Other problems that I faced on this lab was that the domain names on the proxy manager and the dns record did nor match and I accidentally made two hosts for the same domain name on the niginx        proxy manager.
 
