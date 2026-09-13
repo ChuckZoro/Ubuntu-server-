@@ -27,6 +27,16 @@
   Set: PermitRootLogin no
 - sudo systemctl restart ssh
 
+## Troubleshooting
+
+- After running sydo systemctl restart ssh I got this error:
+
+
+- I have not found a solution to disabling password access to server
+
+
+  
+
 
 
 
