@@ -15,6 +15,16 @@
 - Without this protection anyone could attempt to guess my password and possibly gain access.
 - Having the private key is another factor of authentication but it needs to be protected.
 
+## Commands used
+
+- ssh-keygen -t ed25519
+- ssh-copy-id vboxuser<ip of server>
+- ssh vboxuser@<ip of server>
+- sudo nano /etc/ssh/sshd_config
+  Set: PasswordAuthentication no
+  Set: PermitRootLogin no
+- sudo systemctl restart ssh
+
 
 
 
