@@ -23,8 +23,8 @@
 - sudo nano /etc/ssh/sshd_config
 
   Set: PasswordAuthentication no
-  Set: PermitRootLogin no
 
+  Set: PermitRootLogin no
 - sudo systemctl restart ssh
 
 
