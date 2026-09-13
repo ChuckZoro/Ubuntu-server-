@@ -21,8 +21,10 @@
 - ssh-copy-id vboxuser<ip of server>
 - ssh vboxuser@<ip of server>
 - sudo nano /etc/ssh/sshd_config
+
   Set: PasswordAuthentication no
   Set: PermitRootLogin no
+
 - sudo systemctl restart ssh
 
 
