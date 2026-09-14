@@ -29,12 +29,13 @@
 
 ## Troubleshooting
 
-- After running sydo systemctl restart ssh I got this error:
+- After running sudo systemctl restart ssh I got this error:
 
 
 - I have not found a solution to disabling password access to server
 
 
+![Screenshot 2026-09-14 at 7 58 08 PM](https://github.com/user-attachments/assets/3d600327-37a2-4c16-ae9d-315ba4629836)
   
 
 
