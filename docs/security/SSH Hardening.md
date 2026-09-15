@@ -1,4 +1,3 @@
-<img width="1064" height="65" alt="Screenshot 2026-09-13 133711" src="https://github.com/user-attachments/assets/11c4079e-1ab6-456b-92cd-e8ce7d57563a" />
 # Basic  SSH Hardening
 
 ## Overview
@@ -35,7 +34,7 @@
 <img width="1064" height="65" alt="Screenshot 2026-09-13 133711" src="https://github.com/user-attachments/assets/4a004882-0060-4263-9bf0-b9dd190ef634" />
 
 - I tried to set password authentication to no in the /etc/ssh/sshd_config file but I was unsuccessful.
-- /etc/ssh/sshd_config file states that /etc/ssh/sshd_config.d/*.conf takes precedence over the latter. I created that file an added:
+- /etc/ssh/sshd_config file states that /etc/ssh/sshd_config.d/*.conf takes precedence over the latter. I created that file and added:
 
 PubkeyAuthentication yes
 
@@ -43,13 +42,13 @@ PasswordAuthentication no
 
 KbdInteractiveAuthentication no
 
--This resolved my issue.
-
+-This resolved my issue. I added an image of sshd refusing password authentication.
 
 ![Screenshot 2026-09-14 at 7 58 08 PM](https://github.com/user-attachments/assets/3d600327-37a2-4c16-ae9d-315ba4629836)
+
+
   
 
 
-<img width="1064" height="65" alt="Screenshot 2026-09-13 133711" src="https://github.com/user-attachments/assets/4a004882-0060-4263-9bf0-b9dd190ef634" />
 
 
