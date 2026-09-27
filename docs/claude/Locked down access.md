@@ -97,11 +97,10 @@ Host <name_of_alias>
 
 ## Troubleshooting
 
-- I did not manage to take a photo in the heat of working through a few issues but the main problem I had was a rejected key when I tries to
+- I did not manage to take a photo in the heat of working through a few issues but the main problem I had was a rejected key when I tried to
   log in.
 
-- To resolve this I eventually ran getent passwd claude. This command revealed that the path to the key was wrong. I put in the correct path and
-  now claude can ssh into my server with restricted access.
+- To resolve this I eventually ran: getent passwd claude. This command revealed that the path to the key was wrong. I put in the correct path     and now claude can ssh into my server with restricted access.
 
 
 
