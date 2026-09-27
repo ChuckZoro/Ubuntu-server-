@@ -66,12 +66,19 @@ Windows powershell:
                   '~/.ssh/config` or `$env:USERPROFILE\.ssh\config
 
 ---
+
 Host <name_of_alias>
+    
      HostName <ip_address>
+     
      User claude
+     
      IdentityFile ~/.ssh/claude_key
+     
      PreferredAuthentications publickey
+     
      IdentitiesOnly yes
+
 ---
 
 ## Step 9: Test it
