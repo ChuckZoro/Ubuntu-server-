@@ -1,4 +1,4 @@
-# Locked down access foe claude on an Ubuntu server
+# Locked down access for claude on an Ubuntu server
 
 ## Overview
 
