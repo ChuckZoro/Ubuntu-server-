@@ -27,7 +27,7 @@
 - wget -O .env https://github.com/immich-app/immich/releases/latest/download/example.env
 - mkdir -p library postgres
 - sudo docker compose up -d
-- http://192.168.1.107:2883
+- http://<server-ip>:<port_number>
 
 ## Verification
 - Immich has been installed in docker:
