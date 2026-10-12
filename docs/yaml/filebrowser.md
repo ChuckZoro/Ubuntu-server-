@@ -3,7 +3,7 @@ services:
     image: filebrowser/filebrowser:latest
     container_name: filebrowser
     ports:
-      - "8082:80"  # Use a different port than other services
+      - "<redacted>"  # Use a different port than other services
     volumes:
       - ./data:/data
       - ./config:/config
