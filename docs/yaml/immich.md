@@ -14,7 +14,7 @@ services:
     env_file:
       - .env
     ports:
-      - "2283:2283"
+      - "<redacted>"
     depends_on:
       - redis
       - database
