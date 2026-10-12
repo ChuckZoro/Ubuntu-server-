@@ -8,7 +8,7 @@ services:
     ports:
       - '80:80'
       - '443:443'
-      - '127.0.0.1:81:81'
+      - '<redacted>'
     volumes:
       - ./data:/data
       - ./letsencrypt:/etc/letsencrypt
