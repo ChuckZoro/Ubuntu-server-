@@ -5,7 +5,7 @@ services:
    ports:
     - "53:53/tcp"
     - "53:53/udp"
-    - "8081:80/tcp"
+    - "<redacted>"
    environment:
      TZ: "America/NewYork"
      PIHOLE_DNS_: "1.1.1.1; 8.8.8.8"
