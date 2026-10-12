@@ -24,7 +24,7 @@
 ## Network Configuration
 
 - Port 3001
-- http://192.168.1.107:3001
+- http://<server-ip>:<port_number>
 
 ## Testing
 
