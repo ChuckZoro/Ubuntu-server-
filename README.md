@@ -1,4 +1,4 @@
-# Self-Hosted Home-Lab: Secure Linux & Docker Infrastructure
+# Self-Hosted Home Lab: Secure Linux & Docker Infrastructure
 
 A Docker-based home lab on Ubuntu Server that I designed, built, secured, and documented from scratch. It hosts seven self-hosted services behind a reverse proxy with internal DNS, and exposes **zero inbound ports** to the internet.
 
