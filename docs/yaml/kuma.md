@@ -5,7 +5,7 @@ services:
     volumes:
       - ./uptime-kuma-data:/app/data
     ports:
-      - "3001:3001"
+      - "<redacted>"
     extra_hosts:
       - "<ip_address>"
     restart: unless-stopped
