@@ -1,4 +1,4 @@
-# Linux Server Administration 
+# Linux Server Administration Project
 Download Ubuntu Server, ssh into it and use basic admin commands in it.
 
 ## Project Overview
