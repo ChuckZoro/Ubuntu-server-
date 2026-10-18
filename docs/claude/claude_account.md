@@ -2,7 +2,8 @@
 
 ## Overview
 
-- The point of this lab is to create an account so claude can access my ubuntu server with limited access.
+- The point of this lab is to create an account so claude can access my ubuntu server with his own user account and to access it via ssh key-based
+  login.
 
 ## Step 1: Create a user account (Ubuntu server)
 
@@ -99,7 +100,7 @@ Host <name_of_alias>
 
 - The main problem I had was a rejected key when I tried to log in.
 
-- To resolve this I eventually ran: getent passwd claude. This command revealed that the path to the key was wrong. I put in the correct path     and now claude can ssh into my server with restricted access.
+- To resolve this I eventually ran: getent passwd claude. This command revealed that the path to the key was wrong. I put in the correct path          and now claude can ssh into my server with restricted access.
 
 
 <img width="370" height="29" alt="Screenshot 2026-09-27 135840" src="https://github.com/user-attachments/assets/32f29b55-664e-4e5f-93c8-b3cc71825d6d" />
