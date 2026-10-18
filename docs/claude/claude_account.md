@@ -2,7 +2,7 @@
 
 ## Overview
 
-- The point of this lab is to create an account so claude can access my ubuntu server with his own user account and to access it via ssh key-based
+- The point of this lab is to create an account so claude can access my ubuntu server with his own user account and to access it via a ssh key-based
   login.
 
 ## Step 1: Create a user account (Ubuntu server)
